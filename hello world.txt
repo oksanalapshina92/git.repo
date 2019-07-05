@@ -1,8 +1,8 @@
-print("hello world!");
+print("hello world;")
 <<<<<<< HEAD
-print("hello evrebody")
+print("hello evrebody;")
 =======
-print("hello")
+print("hello;")
 >>>>>>> master
 print("hello my dear friend")
 print("glad to see you")
