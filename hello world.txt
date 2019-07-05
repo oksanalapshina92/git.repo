@@ -1,2 +1,6 @@
 print("hello world!");
+<<<<<<< HEAD
+print("hello evrebody")
+=======
 print("hello")
+>>>>>>> master
