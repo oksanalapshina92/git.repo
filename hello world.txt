@@ -4,3 +4,4 @@ print("hello evrebody")
 =======
 print("hello")
 >>>>>>> master
+print("hello my dear friend")
