@@ -1,6 +1,6 @@
-print("hello world!");
+print("hello world;")
 <<<<<<< HEAD
-print("hello evrebody")
+print("hello evrebody;")
 =======
-print("hello")
+print("hello;")
 >>>>>>> master
